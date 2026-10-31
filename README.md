@@ -3,7 +3,7 @@
 My first ever coding project: the classic two-player Pong, written in Python with the built-in
 [`turtle`](https://docs.python.org/3/library/turtle.html) graphics module.
 
-**▶ Play it in your browser:** [yc82628.github.io/pong.html](https://yc82628.github.io/pong.html)
+**▶ Play it in your browser:** [yuchuan.vercel.app/pong.html](https://yuchuan.vercel.app/pong.html)
 (a JavaScript port with the same rules, plus a computer opponent so you can play alone)
 
 ## Run it
@@ -46,4 +46,4 @@ Looking back at my first project:
 - **Same serve every time.** The ball always restarts at the same angle; a random angle would keep rallies interesting.
 - **Repeated code.** Paddle A and B are copy-pasted; one `Paddle` class used twice would be cleaner.
 
-More about the project on my portfolio: [yc82628.github.io/pong.html](https://yc82628.github.io/pong.html)
+More about the project on my portfolio: [yuchuan.vercel.app/pong.html](https://yuchuan.vercel.app/pong.html)
